@@ -22,7 +22,7 @@ Gem::Specification.new do |spec|
 
   spec.add_runtime_dependency "bundler", ">= 1.3"
   spec.add_runtime_dependency "ansi", ">= 1.1"
-  spec.add_runtime_dependency "minitest", "~> 4"
+  spec.add_runtime_dependency "minitest", "~> 5"
 
   spec.add_development_dependency "rake"
   spec.add_development_dependency "pry"
